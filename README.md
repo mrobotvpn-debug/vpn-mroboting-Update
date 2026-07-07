@@ -1,2 +1,2 @@
-# VPN Mrobot Update
-Repository for VPN Mrobot updates.
+# VPN Mrobot 
+Я сделаю обновление для впн даже если сдохну.
